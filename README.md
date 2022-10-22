@@ -12,3 +12,10 @@
   <li>pyton app.py</li>
 </ul>
 
+# Screenshots
+![image](https://user-images.githubusercontent.com/70808475/197325034-9e18cf75-def2-4e7d-b852-4ad34a4cba25.png)
+![image](https://user-images.githubusercontent.com/70808475/197325047-bfa129de-5c9d-4311-aa36-ed0f262228d1.png)
+![image](https://user-images.githubusercontent.com/70808475/197325051-3b1d9cdf-e070-4a38-b0f2-e1ff50b5b91c.png)
+![image](https://user-images.githubusercontent.com/70808475/197325058-108242a1-a8af-4d83-9952-9dc6d770a86b.png)
+![image](https://user-images.githubusercontent.com/70808475/197325068-589bbe49-65af-4e65-8eff-b85045a3a884.png)
+
